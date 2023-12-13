@@ -6,6 +6,7 @@
 * Type Data dan Operator Umum Program`praktikum-b1`
 * Operator dan Comparasi sederhana`praktikum-b2`
 * Operator logika NotComparasi dan Biner`praktikum-3`
+* Kosong`praktikum-b3`
 * Len format dan pengecekan`praktikum-b4`
 * Penggunaan Index`praktikum-b5`
 * Penyelesaian program Praktikum 5`praktikum-5b`
@@ -24,3 +25,4 @@
 * Program Penjumlahan Waktu`231031060-Muh alif-tugas1-10-b`
 * Program Selisih waktu`231031060-Muh alif 2 2-10-b`
 * Program Bil Fibonacci dengan Fungsi`231031060-Muh alif-praktikum-b11`
+* Program Kasir`utsedit`
