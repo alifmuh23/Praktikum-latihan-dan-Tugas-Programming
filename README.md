@@ -26,3 +26,5 @@
 * Program Selisih waktu`231031060-Muh alif 2 2-10-b`
 * Program Bil Fibonacci dengan Fungsi`231031060-Muh alif-praktikum-b11`
 * Program Kasir`utsedit`
+* flowchart sederhana`tugas11prog_pdf_compressed`
+* Rangkuman Text file`231031060-Muh alif-rangkuman12b_pdf_compressed`
