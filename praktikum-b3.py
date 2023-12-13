@@ -1,0 +1,1 @@
+print('praktikum-3')
